@@ -2,6 +2,7 @@
   "name": "monorepo-lerna",
   "version": "1.0.0",
   "private": true,
+  "license": "ISC",
   "devDependencies": {
     "lerna": "^3.20.2"
   }
